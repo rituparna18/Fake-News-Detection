@@ -1,0 +1,7 @@
+Fake News Example : 
+
+Trump on Twitter (Dec 28): The following statements were posted to the verified Twitter account of U.S. President Donald Trump, @Trump.  The legal drinking age has been reduced to 16 yrs in all the US states
+
+Not Fake News Example : 
+
+Trump on Twitter (Dec 28) - Vanity Fair, Hillary Clinton","The following statements were posted to the verified Twitter accounts of U.S. President Donald Trump, @realDonaldTrump and @POTUS.  The opinions expressed are his own. Reuters has not edited the statements or confirmed their accuracy.  @realDonaldTrump : - Vanity Fair, which looks like it is on its last legs, is bending over backwards in apologizing for the minor hit they took at Crooked H. Anna Wintour, who was all set to be Am
